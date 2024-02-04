@@ -414,6 +414,7 @@ L0
 L4
 ^^
 -  `STM32 L476vg Discovery <https://www.st.com/en/evaluation-tools/32l476gdiscovery.html>`__
+-  `STM32 L476rg nucleo <https://www.st.com/en/evaluation-tools/nucleo-l476rg.html>`__
 -  `STM32 L4P5zg Nucleo <https://www.st.com/en/evaluation-tools/nucleo-l4p5zg.html>`__
 -  `STM32 L4R5zi Nucleo <https://www.st.com/en/evaluation-tools/nucleo-l4r5zi.html>`__
 
